@@ -45,7 +45,7 @@ while True:
         invalid_counter += 1
         print(f"Invalid climber encountered at {id}")
         if invalid_counter >= max_consecutive_invalids:
-            print("Two consecutive invalids encountered. Stopping scrape...")
+            print(f"{max_consecutive_invalids} consecutive invalids encountered. Stopping scrape...")
             break
         id += 1
         continue
