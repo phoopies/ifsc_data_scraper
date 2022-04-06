@@ -30,8 +30,9 @@ id = 1
 
 athletes: List[Athlete] = []
 
-# Break when two consecutive invalid pages are encountered
-invalid_previous = False
+# Break when x consecutive invalid pages are encountered
+max_consecutive_invalids = 20
+invalid_counter = 0
 
 while True:
     page = requests.get(url(id))
@@ -41,14 +42,15 @@ while True:
 
     name = athlete_div.find("h1", class_="name").get_text(strip=True)
     if not name:
-        invalid_previous = True
+        invalid_counter += 1
         print(f"Invalid climber encountered at {id}")
-        if invalid_previous:
+        if invalid_counter >= max_consecutive_invalids:
             print("Two consecutive invalids encountered. Stopping scrape...")
             break
+        id += 1
         continue
 
-    invalid_previous = False
+    invalid_counter = 0
 
     age = athlete_div.find("span", class_="age").find("strong").get_text(strip=True)
     country = athlete_div.find("div", class_="country").find("span").get_text(strip=True)
