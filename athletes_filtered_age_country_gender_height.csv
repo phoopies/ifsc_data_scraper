@@ -1,0 +1,418 @@
+id	name	age	country	hometown	height	arm_span	gender
+5	Philipp Hrozek	40.0	GER	Kulmbach	188.0	190.0	1
+7	Martin Schlageter	56.0	GER	Sinzheim	178.0	182.0	1
+16	Marcel Richter	33.0	GER	Ehrwald	150.0		1
+23	Sebastian Depke	36.0	GER	Kemmenau	145.0		1
+27	Nicolas Perreth	37.0	GER	Munich	183.0	191.0	1
+68	Dinara Fakhritdinova	29.0	RUS	Gubkinsky	152.0		-1
+79	Aleksey Rubtsov	33.0	RUS	Moscow	178.0	185.0	1
+87	Irina Kuzmenko	26.0	RUS	Saint-Petersburg	171.0		-1
+93	Dmitrii Fakirianov	27.0	RUS	Saint-Petersburg	171.0		1
+123	Sergei Sergeev	65.0	RUS	Tyumen	176.0		1
+129	Elizaveta Ivanova	22.0	RUS	Ekaterinburg	172.0		-1
+144	Elena Krasovskaia	21.0	RUS	Miass	169.0		-1
+173	Semen OVCHINNIKOV	19.0	RUS	Krasnoyarsk	172.0		1
+196	Anton Kulba	19.0	RUS	Krasnoyarsk	174.0		1
+279	Iurii KOVALEV	17.0	RUS	Omsk	173.0		1
+316	Chloe Caulier	25.0	BEL	Masnuy Saint Pierre	166.0		-1
+318	Simon Lorenzi	25.0	BEL	Barchon	168.0	180.0	1
+320	Nicolas Collin	24.0	BEL	Bruxelles	179.0		1
+356	Ties Vancraeynest	19.0	BEL	Buggenhout	177.0		1
+373	Hannes Van Duysen	17.0	BEL	Vinderhoute	175.0		1
+462	Manon Hily	28.0	FRA	AIX EN PROVENCE	162.0		-1
+466	Julia Chanourdie	25.0	FRA	AVIERNOZ	164.0		-1
+467	Salomé Romain	26.0	FRA	BRIANCON	149.0		-1
+469	Fanny Gibert	29.0	FRA	massy	165.0		-1
+474	Guillaume Moro	27.0	FRA	GRENOBLE	171.0		1
+479	Anouck Jaubert	28.0	FRA	GRENOBLE	169.0		-1
+488	Aurelia Sarisson	24.0	FRA	Voiron	167.0		-1
+490	Manuel Cornu	28.0	FRA	Evry	177.0		1
+494	Pierre Rebreyend	25.0	FRA	St Martin d'Uriage	180.0		1
+514	Nina Arthaud	21.0	FRA	ARACHES	167.0		-1
+523	Mickael Mawem	31.0	FRA	AUBERVILLIERS	179.0		1
+530	Nolwenn Arc	22.0	FRA	CHOLET	157.0		-1
+532	Sam Avezou	21.0	FRA	IGNY	170.0		1
+544	Alistair Duval	20.0	FRA	Voiron	180.0	194.0	1
+547	Paul Jenft	18.0	FRA	FFME La Chapelle Blanche	186.0	194.0	1
+557	Julien Gasc	39.0	FRA	Montpellier	179.0	184.0	1
+561	Camille Pouget	19.0	FRA	Fonsorbes	162.0		-1
+569	Capucine Viglione	19.0	FRA	Voiron	170.0		-1
+584	Diego Fourbet	19.0	FRA	L'Argentière-la-Bessée	174.0		1
+587	Joshua FOURTEAU	19.0	FRA	bordeaux	175.0		1
+596	Benjamin Bouissou	35.0	FRA	Pantin	174.0		1
+601	Saula Lerondel	17.0	FRA	SAINT-JULIEN-LES-VILLAS	168.0		-1
+603	Elsa Ravinet	18.0	FRA	Toulouse	154.0		-1
+611	Thibaud Desloges	17.0	FRA	Massy	180.0	187.0	1
+620	Zélia Avezou	17.0	FRA	IGNY	158.0		-1
+636	Shauna Coxsey	29.0	GBR	Sheffield	164.0		-1
+642	Molly Thompson-Smith	24.0	GBR	London	159.0		-1
+668	Aiden Dunne	22.0	GBR	Ashton-Under-Lyne	175.0	183.0	1
+670	Dave Bowes	40.0	GBR	Wallasey	180.0	185.0	1
+688	Maximillian Milne	21.0	GBR	Aberdeen	166.0		1
+693	Emily Phillips	19.0	GBR	Cardiff	170.0		-1
+694	Holly Toothill	20.0	GBR	Cowling	165.0		-1
+696	Hamish McArthur	20.0	GBR	Yorkshire	181.0		1
+703	Imogen Horrocks	23.0	GBR	Portsmouth	165.0	165.0	-1
+714	Stephen Keir	19.0	GBR	Piperdam	183.0		1
+730	Anita Aggarwal	49.0	GBR	Derby	162.0		-1
+765	Philipp Martin	27.0	GER	Kaufbeuren	173.0		1
+793	Mikel Asier Linacisoro Molina	21.0	ESP	Bergara	184.0	180.0	1
+811	Alberto Ginés López	19.0	ESP	Sant Cugat del Vallés	178.0		1
+814	Alejandro Crespo Cobos	24.0	ESP	Tornavacas	182.0	194.0	1
+819	Iván Germán Pascual	49.0	ESP	madrid	179.0		1
+820	Francisco Javier Aguilar Amoedo	39.0	ESP	Granada	167.0	173.0	1
+854	Marcello Bombardi	28.0	ITA	Pont-Saint-Martin (AO)	177.0		1
+855	Stefano Ghisolfi	29.0	ITA	Arco	169.0		1
+857	Michael Piccolruaz	26.0	ITA	Santa Cristina	178.0		1
+860	Claudia Ghisolfi	25.0	ITA	Torino	162.0		-1
+865	Ludovico Fossali	24.0	ITA	Bieno (TN)	185.0	196.0	1
+868	Alessio Cornamusini	56.0	ITA	Castelfiorentino (FI)	172.0	180.0	1
+885	Stanislao Zama	26.0	ITA	Faenza	170.0		1
+899	Gian Luca Zodda	22.0	ITA	Sassuolo	169.0		1
+914	Giorgia Tesio	21.0	ITA	Mondovì CN	165.0		-1
+921	Tiziana Paolini	50.0	ITA	VINCI	170.0		-1
+928	Laura Rogora	20.0	ITA	Trento	152.0		-1
+947	Camilla Moroni	20.0	ITA	Mignanego (GE)	157.0	161.0	-1
+952	Alessandro Cingari	23.0	ITA	Roma	187.0	203.0	1
+991	Miriam Fogu	19.0	ITA	Perugia	171.0		-1
+1005	Giorgio Tomatis	19.0	ITA	Caraglio	180.0	75.0	1
+1024	Beatrice Colli	17.0	ITA	Colico	171.0	178.0	-1
+1032	Petra Campana	20.0	ITA	Gandino	159.0	162.0	-1
+1047	Nicolò Sartirana	18.0	ITA	cantalupo di cerro maggiore	169.0	177.0	1
+1058	Christopher Cosser	21.0	RSA	Johannesburg	178.0		1
+1103	Erin Sterkenburg	19.0	RSA	Durban	163.0		-1
+1104	Danielle Visser	18.0	RSA	Durban	174.0		-1
+1113	Emily Gray	30.0	RSA	New York City	175.0	176.0	-1
+1123	Gregor Selak	33.0	SLO	Skofja Loka	178.0		1
+1124	Jernej Kruder	31.0	SLO	Celje	179.0	184.0	1
+1129	Domen Skofic	27.0	SLO	Radovljica	177.0		1
+1130	Katja Debevec	26.0	SLO	Ljubljana	173.0		-1
+1131	Gregor Vezonik	26.0	SLO	RAVNE NA KOROŠKEM	176.0		1
+1134	Milan Preskar	25.0	SLO	Skofja Loka	172.0		1
+1135	Martin Bergant	26.0	SLO	Skofja Loka	182.0		1
+1145	Matic Kotar	23.0	SLO	Ljubljana - Šentvid	172.0	188.0	1
+1147	Janja Garnbret	23.0	SLO	Šmartno pri Slovenj Gradcu	164.0		-1
+1153	Vita Lukan	21.0	SLO	Radovljica	164.0		-1
+1155	Lana Skusek	21.0	SLO	Komenda	162.0		-1
+1161	Mia Krampl	21.0	SLO	Golnik	163.0		-1
+1170	Luka Potocar	20.0	SLO	Jesenice	177.0		1
+1181	Lucija Tarkus	18.0	SLO	Slovenska Bistrica	160.0		-1
+1186	Peter Hribar	36.0	SLO	Kamnik	182.0		1
+1187	Timotej Romšak	17.0	SLO	Radomlje	180.0		1
+1190	Matej Arh	28.0	SLO	Preddvor	185.0	188.0	1
+1214	Jakob Schubert	31.0	AUT	Innsbruck	176.0		1
+1226	Jessica Pilz	25.0	AUT	Haag	165.0		-1
+1230	Alexandra Elmer	25.0	AUT	Stuhlfelden	170.0		-1
+1239	Julia Fiser	24.0	AUT	Hall in Tirol	162.0		-1
+1240	Franziska Sterrer	23.0	AUT	Vöcklabruck	169.0		-1
+1243	Johanna Färber	24.0	AUT	Kumberg	171.0		-1
+1249	Laura Stöckler	22.0	AUT	Haag	172.0		-1
+1251	Mathias Posch	22.0	AUT	Imst	171.0		1
+1256	Nicolai Uznik	21.0	AUT	Sankt Johann	173.0		1
+1259	Eva Maria Hammelmüller	21.0	AUT	Innsbruck	167.0	180.0	-1
+1266	Mattea Pötzi	21.0	AUT	Innsbruck	160.0		-1
+1270	Sandra Lettner	20.0	AUT	Straßwalchen	161.0		-1
+1274	Stefan Scherz	20.0	AUT	Gloggnitz	179.0		1
+1278	Tobias Plangger	21.0	AUT	Thaur	182.0		1
+1283	Johannes Hofherr	19.0	AUT	Frastanz	178.0		1
+1324	Sandra Pollak	49.0	AUT	Maria Saal	170.0	176.0	-1
+1326	Daniel Wiener	41.0	AUT	Schörfling	178.0	184.0	1
+1346	Edith Scheinecker	54.0	AUT	Enns	160.0		-1
+1349	Angelino Zeller	25.0	AUT	Gratkorn	177.0		1
+1361	Martin Stranik	32.0	CZE	Hradec Kralove - Svobodne Dvory	178.0		1
+1364	Adam Ondra	29.0	CZE	Brno - Komin	186.0		1
+1372	Jan Kriz	26.0	CZE	Brno	190.0		1
+1393	Petr Burian	30.0	CZE	Brno	193.0		1
+1437	Marek Jeliga	18.0	CZE	Praha 5	171.0		1
+1438	Michaela Smetanova	19.0	CZE	Brno	165.0		-1
+1492	Kostiantyn Pavlenko	23.0	UKR	Odessa	182.0		1
+1496	Roman Batsenko	27.0	UKR	Kyiv	179.0		1
+1511	Yaroslav Tkach	20.0	UKR	Kremenchuk	182.0		1
+1517	Tetiana Kolkotina	29.0	UKR	Ukrainka Kiev region	165.0		-1
+1526	Nika Potapova	19.0	UKR	Ukrainka Kiev region	154.0		-1
+1559	Sean McColl	34.0	CAN	Maple Ridge	169.0	175.0	1
+1565	Alannah Yip	28.0	CAN	Vancouver	164.0		-1
+1579	Allison Vest	26.0	CAN	Canmore	171.0		-1
+1644	Victor Baudrand	19.0	CAN	Salt Lake City, Utah	175.0		1
+1741	Sean Bailey	25.0	USA	Shoreline	163.0		1
+1750	Kyra Condie	25.0	USA	Shoreview	162.0		-1
+1754	John Brosler	25.0	USA	Plano	179.0		1
+1778	Nathaniel Coleman	25.0	USA	Murray	182.0		1
+1798	Noah Bratschi	21.0	USA	Potomac	184.0	194.0	1
+1803	Natalia Grossman	20.0	USA	Boulder	162.0		-1
+1811	Brooke Raboutou	20.0	USA	Boulder	158.0		-1
+1812	Ashima Shiraishi	21.0	USA	New York	155.0		-1
+1824	Maya Madere	23.0	USA	Austin	168.0		-1
+1837	Bill Casson	33.0	USA	Denver	175.0	175.0	1
+1843	Michael Finn-Henry	22.0	USA	Boston	193.0	200.0	1
+1867	Gabrielle Tourtellotte	25.0	USA	Hemdon	177.0		-1
+1870	Sienna Kopf	19.0	USA	Golden	174.0		-1
+1871	Ross Fulkerson	21.0	USA	Portola Valley	183.0		1
+1874	Megan Lynch	23.0	USA	Rockville	167.0	167.0	-1
+1898	Isabel Gifford	22.0	USA	Austin	170.0		-1
+1908	Merritt Ernsberger	22.0	USA	Norman	173.0		1
+1925	Stefan Fellner	20.0	USA	Kings Beach	178.0		1
+1926	Zach Galla	21.0	USA	Atlanta	168.0		1
+1929	Colin Duffy	18.0	USA	Broomfield	170.0		1
+1934	Zander Waller	18.0	USA	Decatur	182.0	193.0	1
+1936	Darren Skolnik	19.0	USA	Haworth	170.0		1
+1946	Timothy Kang	23.0	USA	Mountain View	180.0	182.0	1
+1971	Jared Lenahan	33.0	USA	Silver Spring	175.0		1
+1985	Steven Hinson	30.0	USA	Lakewood, Colorado	175.0		1
+1999	Emma Hunt	19.0	USA	Woodstock	173.0		-1
+2000	Callie Close	17.0	USA	Suwanee	182.0		-1
+2004	Ellis Ernsberger	18.0	USA	Carrollton	170.0		1
+2014	Christoph Hanke	28.0	GER	Betzenstein	167.0	167.0	1
+2021	Anna Lechner	18.0	GER	München	171.0		-1
+2203	Gergő Vályi	17.0	HUN	Szügy	176.0	180.0	1
+2253	Akiyo Noguchi	32.0	JPN	Ryugasaki-shi	167.0		-1
+2257	Rei Sugimoto	30.0	JPN	Tokyo	172.0		-1
+2261	Masahiro Higuchi	29.0	JPN	Setagaya-ku, Tokyo	169.0		1
+2265	Keita Watabe	28.0	JPN	Yokkaichi	173.0	180.0	1
+2272	Kokoro Fujii	29.0	JPN	Tokyo	176.0		-1
+2291	Tomoaki Takata	27.0	JPN	Hokuei-cho	175.0		1
+2294	Miho Nonaka	24.0	JPN	Tokyo	163.0		1
+2303	Shinji Mizumura	58.0	JPN	Toshima-ku Tokyo	177.0		1
+2305	Yukari Nakamura	23.0	JPN	Hamamatsu	157.0		-1
+2309	Yoshiyuki Ogata	24.0	JPN	Tokyo	172.0	181.0	1
+2332	Kai Harada	23.0	JPN	Tokyo	169.0		1
+2343	Nanako Kura	21.0	JPN	kariyash	160.0		-1
+2381	Natsuki Tanii	18.0	JPN	Nara	152.0		-1
+2383	Hajime Takeda	19.0	JPN	Kanagawa	172.0	180.0	1
+2385	Rei Kawamata	18.0	JPN	Tochigi	172.0		-1
+2436	Dimitar Rusev	18.0	BUL	Sofia	173.0	178.0	1
+2486	Emma Horan	28.0	AUS	Spence, Canberra	181.0	187.0	-1
+2488	Lucinda Ann Stirling	28.0	AUS	Brookfield	160.0	160.0	-1
+2493	Campbell Harrison	24.0	AUS	Brunswick East	182.0	181.0	1
+2530	Joshua Damasco	21.0	AUS	Lockridge	173.0	181.0	1
+2573	Emil Zimmermann	17.0	GER	Freiburg	178.0		1
+2574	Alexander Megos	28.0	GER	Erlangen	175.0		1
+2597	Michael O'Neill	22.0	IRL	Dublin	174.0	180.0	1
+2667	Hannes Puman	24.0	SWE	Skogstorp	177.0		1
+2767	Peter Kuric	20.0	SVK	Handlova	175.0		1
+2798	Anthony Gullsten	30.0	FIN	Helsinki	180.0		1
+2808	Tomi Salo	26.0	FIN	Helsinki	176.0		1
+2845	Marcin Dzienski	29.0	POL	Tarnów	166.0		1
+2848	Aleksandra Miroslaw	28.0	POL	Lublin	162.0		-1
+2857	Patrycja Chudziak	24.0	POL	Lublin	168.0		-1
+2879	Natalia Kalucka	20.0	POL	Tarnów	165.0		-1
+2894	Jakub Zietek	20.0	POL	Bielsko-Biała	175.0		1
+3043	Pia Culjak	19.0	CRO	Zagreb	171.0	182.0	-1
+3060	Tina Johnsen Hafsaas	27.0	NOR	OSLO	164.0	166.0	-1
+3090	Oda Aagaard Lauridsen	20.0	NOR	Lillehammer	178.0		-1
+3113	Hannah Meul	21.0	GER	Frechen	167.0		-1
+3120	Franziska Ritter	18.0	GER	Wuppertal	164.0		-1
+3125	Sebastian Halenke	27.0	GER	Lahr	177.0		1
+3127	Max Kleesattel	23.0	GER	Schwäbisch Gmünd	173.0	180.0	1
+3131	Yannick Flohé	22.0	GER	Essen	178.0		1
+3154	Clara Viegas	20.0	BRA	Belo Horizonte, MG	170.0		-1
+3199	Dylan Chuat	21.0	SUI	Vernayaz	170.0		1
+3211	Carlos Granja	23.0	ECU	Ibarra	175.0	172.0	1
+3214	Aaron Peñaranda	21.0	ECU	Cuenca	171.0		1
+3222	Galo  Hernandez	21.0	ECU	Atuntaqui	164.0	166.0	1
+3230	Steve Cabrera	28.0	ECU	Riobamba	173.0	175.0	1
+3242	Paolo  Rivadeneira	18.0	ECU	Quito	180.0		1
+3246	Petra Klingler	30.0	SUI	Bonstetten	162.0		-1
+3254	Andrea Kümin	24.0	SUI	Ostermundigen	164.0		-1
+3354	Afra Hönig	26.0	GER	Landshut	165.0	165.0	-1
+3362	Amir Maimuratov	26.0	KAZ	Astana	182.0		1
+3422	Jan Hojer	30.0	GER	Frechen	188.0		1
+3431	Georg Hoffmann	57.0	GER	Stuttgart	163.0	181.0	1
+3471	Reza Alipour Shenazandifard	27.0	IRI	Qazvin	171.0		1
+3511	Hossein Familrohani	29.0	IRI	Tehran	173.0	183.0	1
+3558	Mahdi Zendehkar	44.0	IRI	Karaj	178.0		1
+3594	Lynn van der Meer	22.0	NED	Roosendaal	168.0		-1
+3597	Jens de Louw	19.0	NED	Utrecht	179.0	186.0	1
+3607	Paul Brand	19.0	NED	Amsterdam	180.0	188.0	1
+3805	Mariana Carvalho	18.0	POR	Mosteiró - Vila do Conde	154.0		-1
+3827	Brandon Grageda	28.0	PHI	Marikina City	180.0		1
+3834	John Joseph Veloria	29.0	PHI	QUEZON CITY	157.0		1
+3842	Slobodan Gejo	70.0	SRB	Niska Banja	188.0		1
+3875	Frederik Viberg	20.0	DEN	Nykøbing Sj.	187.0		1
+3880	Zoé Egli	20.0	SUI	Hünibach	164.0		-1
+3882	Joëlle Niederberger	19.0	SUI	Oberhofen am Thunersee	168.0		-1
+3911	Alejandra Contreras	21.0	CHI	Santiago	160.0	169.0	-1
+3916	Benjamin Vargas	22.0	CHI	San Felipe	180.0	188.0	1
+3991	Ram Levin	23.0	ISR	Hertzlyia	171.0	184.0	1
+3998	Nimrod Marcus	22.0	ISR	Jerusalem	166.0		1
+4017	Ayala Kerem	20.0	ISR	Misgav	163.0		-1
+4058	Dmitriy Sorokin	35.0	UZB	Tashkent	180.0		1
+4063	Murat Salim Şeren	54.0	TUR	Konya	177.0		1
+4107	Thorben Perry Bloem	17.0	GER	Braunschweig	183.0	194.0	1
+4121	Evdoxia - Aikaterini KALLIA	19.0	GRE	Athens	163.0	166.0	-1
+4125	Matthaios VALSAMIDIS	23.0	GRE	Xanthi	175.0	180.0	1
+4134	Panagiotis NANOUSIS	19.0	GRE	Athens	180.0	178.0	1
+4165	Elza Elizabete Baraka	21.0	LAT	Riga	168.0	168.0	-1
+4169	Ksenija Dobržinska	17.0	LAT	Riga	162.0	165.0	-1
+4252	Christoph Schweiger	20.0	GER	Ingolstadt	187.0		1
+4284	Nino Grünenfelder	20.0	SUI	Baar	172.0		1
+4299	Sascha Lehmann	24.0	SUI	Burgdorf	164.0		1
+4301	Michelle Hulliger	22.0	SUI	Ramsei	157.0		-1
+4306	Nils Favre	30.0	SUI	Martigny	176.0	187.0	1
+4320	Roxana Wienand	21.0	GER	Aschaffenburg	162.0		-1
+4328	Alma Bestvater	26.0	GER	Weimar	161.0		-1
+4330	Lucia Dörffel	22.0	GER	Chemnitz	165.0		-1
+4378	Joris Leipus	22.0	LTU	Vilnius	179.0	192.0	1
+10837	Iman Edrisi	28.0	IRI	Shiraz	169.0		1
+11420	Ignacia Mellado Quinteros	19.0	CHI	Santiago	160.0		-1
+11457	Dzmitry Nikanorau	24.0	BLR	Mar'ina Gorka	178.0		1
+11462	Oriane Bertone	17.0	FRA	LES AVIRONS	164.0		-1
+11464	Aleksandra Totkova	17.0	BUL	Plovdiv	162.0		-1
+11466	Alessia Mabboni	17.0	ITA	Arco	152.0		-1
+11468	Erin Mcneice	18.0	GBR	Rodmersham	160.0		-1
+11481	Johannes Egger	19.0	ITA	Bruneck	179.0	188.0	1
+11489	Amaury Cabezas	18.0	FRA	PERTHES	168.0	175.0	1
+11490	Toby Roberts	17.0	GBR	Surrey	177.0		1
+11494	Alessandro Mele	16.0	ITA	AVIGLIANA (TORINO)	167.0	171.0	1
+11502	Jack Macdougall	16.0	GBR	Sheffield	178.0		1
+11525	Elias Arriagada Krüger	21.0	GER	Berlin	169.0		1
+11533	Victor SEBROS	26.0	GRE	Athens	180.0	190.0	1
+11546	Sara Copar	16.0	SLO	Lasko	168.0		-1
+11585	Luka Jerman	16.0	SLO	Radomlje	180.0	186.0	1
+11587	David Runggatscher	17.0	AUT	Absam	170.0	178.0	1
+11601	Andrea Biassoni	19.0	ITA	Milano	178.0		-1
+11602	Sebastian Lucke	19.0	GER	Wuppertal	180.0		1
+11603	Linus Bader	19.0	GER	Burgrieden-Rot	181.0		1
+11608	Francesco Govoni	17.0	ITA	Modena	176.0	180.0	1
+11614	Bianca Magalhaes de Castro	33.0	BRA	Rio de Janeiro - RJ	164.0		-1
+11622	Justin Boukandja Bathol	18.0	FRA	HOSTUN	181.0		1
+11630	Myrto ARGYRIOU	16.0	GRE	Athens	161.0	161.0	-1
+11647	Filippos LAVRENTAKIS-RIGAKIS	16.0	GRE	Athens	169.0	170.0	1
+11653	Agathe Calliet	18.0	FRA	Grenoble	158.0		-1
+11657	Annika Stöckl	16.0	AUT	Wals	158.0		-1
+11658	Sabina van Essen	16.0	NED	Arnhem	160.0		-1
+11678	Levin Socher	17.0	SUI	Zeihen	170.0	175.0	1
+11684	Liza Novak	17.0	SLO	Radeče	156.0	170.0	-1
+11717	Philipp Göthert	20.0	GER	Essen	182.0		1
+11740	Sandra Hopfensitz	19.0	GER	Freienried	165.0		-1
+11750	Ludovica Merendi	19.0	ITA	Forlì	153.0		-1
+11753	Ekaterina ZAVIALOVA	16.0	RUS	Krasnoyarsk	172.0		-1
+11759	Vladislav SHUNEVICH	17.0	RUS	Saint-Petersburg	185.0		1
+11766	Samuel Stefanik	18.0	SVK	Povazska Bystrica	170.0	179.0	1
+11773	Silas Matzer	17.0	SUI	Thal	171.0	174.0	1
+11783	Ryu NAKAGAWA	18.0	JPN	Osaka	171.0		1
+11821	Alina IVANENKO	17.0	RUS	Krasnoyarsk	162.0		-1
+11847	Oscar Baudrand	16.0	CAN	Salt Lake City, Utah	170.0		1
+11850	Haruki UEMURA	17.0	JPN	Tokyo	174.0		1
+11870	Magnus Silas Hjorth Sierslev	17.0	DEN	København	184.0	188.0	1
+11886	Quinn O'Francia	17.0	USA	Seattle	175.0		1
+11893	Ethan Pitcher	20.0	CAN	Edwards, CO	187.0		1
+11915	Lovro Črep	17.0	SLO	Velenje	167.0		1
+11977	Amir Reza Karam Zadeh	19.0	IRI	Qazvin	168.0		1
+12032	Isaac Leff	17.0	USA	Pelham	178.0		1
+12155	Tânia Chaves	26.0	POR	Braga	150.0		-1
+12158	Eva Mol	37.0	NED	Amersfoort	173.0		-1
+12164	Martha Evans	22.0	GBR		158.0	167.0	-1
+12166	Agnes Lopez	52.0	GER		166.0		-1
+12175	Eloi Vila Cullerés	33.0	ESP	SANT FRUITOS DE BAGES	190.0		1
+12196	Federico Di felice	33.0	ITA	Avezzano	173.0		1
+12199	Mehdi Pahnavar	40.0	GER	Oststainbek	183.0		1
+12238	Pierre Shankland	18.0	GBR	Massy	177.0	177.0	1
+12242	Rhys Conlon	15.0	GBR		165.0		1
+12317	Jun YASUKAWA	18.0	JPN	Chiba	172.0		1
+12324	Martina Demmel	20.0	GER	Böbing	157.0	160.0	-1
+12329	Nikolay Rusev	16.0	BUL	Plovdiv	172.0		1
+12348	Martina Buršíková	15.0	SVK	Bratislava	169.0		-1
+12360	Lau Macià Llobet	16.0	ESP	Collbató	168.0	182.0	1
+12361	David López Sánchez	16.0	ESP	Cáceres	172.0		1
+12362	Andrés Ramos Sosa	32.0	ESP	Mérida	181.0		1
+12371	Lily ABRIAT	15.0	FRA	BRIGNAIS	162.0		-1
+12375	Victor LARZUL	27.0	FRA	Voiron	178.0	174.0	1
+12383	Ariane Franken	16.0	AUT		165.0		-1
+12397	Daria MEZENTSEVA	18.0	RUS	Novosibirsk	155.0		-1
+12421	Sofia Ramstedt	15.0	SWE		166.0		-1
+12422	Nathalie Vendsalu	15.0	SWE	Ekerö	163.0	163.0	-1
+12428	Elise Frantzen Olsen	17.0	NOR	Lillehammer	174.0	178.0	-1
+12442	Chris Hamper	64.0	NOR	Flekke	169.0	186.0	1
+12464	Mario Persing	32.0	GER	Pfinztal	177.0		1
+12465	Corinna Wimmer	27.0	GER	München	165.0		-1
+12467	Vanessa Weber	40.0	GER	Karlsruhe	158.0		-1
+12470	Nicole Diehl	32.0	GER	Eltville am Rhein	169.0		-1
+12471	Pia Čuljak DELETE	19.0	CRO	Zagreb	171.0	182.0	-1
+12488	Manca Smrekar	29.0	SLO	Ljubljana - Polje	168.0	162.0	-1
+12499	Sina Willy	14.0	AUT	Scuol/Schweiz	160.0		-1
+12508	Jakub Fábric	18.0	SVK	Bratislava	185.0		1
+12510	Roderick Ventura	15.0	FRA	Conflans Sainte Honorine	179.0		1
+12514	Nikolay Angelov	15.0	BUL	Sofia	175.0		1
+12515	Christiane Luttikhuizen	26.0	NED		174.0		-1
+12526	Michele Reusa	15.0	ITA	Luserna San Giovanni ( To)	174.0	184.0	-1
+12528	Alice Strocchi	15.0	ITA	Ravenna	153.0		-1
+12531	Yulduz Makhmudova	19.0	UZB	Tashkent	165.0	166.0	-1
+12532	Asel Turdimuratova	17.0	UZB	Tashkent	167.0		-1
+12536	Dmitriy Pitirimov	67.0	UZB	Tashkent	170.0		1
+12537	Kylie Cullen	17.0	USA	Colton	165.0		-1
+12562	Anastasia KOBETS	15.0	UKR	Kramatorsk	153.0	164.0	-1
+12576	Maja Oleksy	14.0	POL	Koszyce Małe/Tarnów	158.0		-1
+12579	Snezhana Ermolik	14.0	RUS	Saint-Petersburg	158.0		-1
+12599	Marlene Rieger	15.0	AUT	9580 Drobollach	164.0	166.0	-1
+12620	Riku Sinivirta	17.0	FIN		171.0	172.0	1
+12622	Jessica Knifsund	15.0	FIN	Vanhalinna	166.0	170.0	-1
+12624	Saara Autero	15.0	FIN	Vantaa	150.0		-1
+12642	Shay Berenfeld	14.0	ISR	Nahariya	149.0	154.0	1
+12700	Igor Veselic	18.0	SRB	Belgrade	175.0	185.0	1
+12721	Julia Duffy	17.0	USA		176.0		-1
+12722	Caden Reedy	16.0	USA		167.0		1
+12725	Stefania Daniele	49.0	ITA	Villorba (TV)	171.0		-1
+12726	Markus Pösendorfer	38.0	AUT	Vasoldsberg	183.0		1
+12740	Tomas Chicaiza	16.0	ECU	Imbabura	175.0		1
+12744	Elisa Koppelmann	15.0	GER	Köln	176.0		-1
+12753	Mathilde Chauvois	15.0	FRA	SAINT JEAN D AVELANNE	163.0	163.0	-1
+12773	Sara Pittureri	15.0	ITA	San Lazzaro Di Savena	165.0	160.0	-1
+12774	Emma Ghelli	17.0	ITA	San Lazzaro Di Savena	170.0		-1
+12775	Artyom Baranov	16.0	UZB	Tashkent	175.0	175.0	1
+12787	Camille Brassier	34.0	FRA	Clermont Ferrand	175.0		-1
+12814	Luca Malosti	18.0	ITA	Cuorgne	175.0		1
+12816	Samuele Graziani	14.0	ITA	Bologna	172.0		1
+12822	Elisa Martin	41.0	ITA	Castelnovo del friuli	157.0		-1
+12825	Diego FOURBET	19.0	FRA	L'Argentière la Bessée	174.0		1
+12830	Alejandro Rivas Domínguez	20.0	ESP	Móstoles	180.0	75.0	1
+12845	Momoko ABE	19.0	JPN	Kanagawa	160.0		-1
+12850	Adrien Gsell	14.0	FRA	EVRY-COURCOURONNES	172.0		1
+12852	Lana Goric	14.0	SLO	Prebold	162.0		-1
+12857	Alexandru Olteanu	21.0	ROU	Piatra Neamț	178.0	180.0	1
+12863	Vaidotas Monstavicius	31.0	LTU	Brixen	176.0	177.0	1
+12912	Vasileios BERTOS	16.0	GRE	XANTHI	163.0	168.0	1
+12913	Iasonas VALSAMIDIS	15.0	GRE	XANTHI	173.0	178.0	1
+12916	Iraklis PAKOS	17.0	GRE	Athens	183.0	188.0	1
+12923	Joana Hristanova	15.0	BUL	Sofia	165.0		-1
+12946	Marina Khisamova	25.0	RUS	Moscow	165.0		-1
+12947	Lucy Garlick	15.0	GBR		165.0		-1
+12972	Alexander Seelig	29.0	GER	Bremen	176.0		1
+12981	Iman Arezeh	20.0	IRI	Tehran	177.0	183.0	1
+12984	Oleg Bubyr	48.0	RUS	Chehov	195.0		1
+13021	Anastasia Sanders	14.0	USA		157.0		-1
+13024	Alina Albert	15.0	USA	Escondido	154.0	154.0	-1
+13025	Sophia Curcio	16.0	USA	Charlotte	159.0	159.0	-1
+13029	Dillon Countryman	15.0	USA		164.0		1
+13030	Hugo Hoyer	15.0	USA		178.0		1
+13032	Augustine Chi	15.0	USA		162.0		-1
+13088	Hemant Gupta	32.0	IND	New Delhi	167.0		1
+13106	Alex Mendes Júnior	22.0	BRA	Vitória	171.0	174.0	1
+13127	Clara Stricker	15.0	DEN	Hedehusene	166.0		-1
+13146	Tomas Kaartinen	17.0	FIN		167.0	178.0	1
+13179	Tomas Greksak	36.0	SVK	Bratislava	175.0	190.0	1
+13191	Filipe Carvalho	14.0	POR	Mosteiró - Vila do Conde	165.0		1
+13193	José Gomes	16.0	POR	Porto	173.0		1
+13201	Jason Winkle	45.0	USA	Memphis	186.0		1
+13214	Darya Kompaniets	19.0	RUS	Omsk	178.0		-1
+13223	Martina RODRIGUEZ OYOLA	20.0	ARG		156.0		-1
+13232	Kyle Hardie	15.0	RSA	Douglasdale	166.0	169.0	-1
+13239	Julian De Wet	21.0	RSA		171.0		1
+13256	Benjamin Kurki	16.0	FIN	Helsinki	184.0		1
+13271	Linus Qvarnström	13.0	SWE	Lund	157.0	159.0	1
+13286	Marina Dias	39.0	BRA	Taubaté, SP	156.0		-1
+13301	Samuel Richard	14.0	FRA	Valence	166.0		1
+13302	Gabriel Eisen Barbour	15.0	FRA	Poitiers	178.0		1
+13316	Guillermo Peinado Franganillo	16.0	ESP	Colmenar Viejo	169.0		1
+13317	Lucía Sempere González	17.0	ESP	Valencia	160.0		-1
+13334	Giovanni Bagnoli	13.0	ITA		142.0	149.0	1
+13338	Giulia Centi	13.0	ITA	Santa maria delle mole -Marino-Roma	161.0	169.0	-1
+13346	Eva Mengoli	14.0	ITA	pianoro/Bologna	164.0	54.0	-1
+13354	Matteo Sartori	15.0	ITA		180.0		1
+13369	Riccardo Caprasecca	38.0	ITA		175.0	175.0	1
+13373	Leslie Adriana Romero Pérez	24.0	ESP	Alicante	160.0		-1
+13393	Timo Ossig	13.0	GER	Kempten	165.0		1
+13403	Maya Klaunzer	18.0	AUT	Lienz	171.0	176.0	-1
+13446	Stephan Pohl	35.0	GER	Kerpen	183.0	185.0	1
+13457	James Jenkins	16.0	GBR		170.0		1
+13460	Tom Steele	13.0	GBR	Biggleswade	168.0	170.0	1
